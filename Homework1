@@ -1,0 +1,47 @@
+package Homework1;
+
+public class Homework1 {
+    public static void main(String[] args) {
+        System.out.println("\"Homework done by Igor\"");
+        byte a = 4;
+        short b = 9;
+        int c = 12;
+        long d = 55555L;
+        float e = 33.3F;
+        double f =22.88;
+        boolean bol = true;
+        char cr ='4';
+        char cr1 ='7';
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(f);
+        System.out.println(bol);
+        System.out.println(cr);
+        System.out.println(cr1);
+
+        System.out.println("\n");
+        a = 2;
+        b = 33;
+        c = 56;
+        d = 8888;
+        e = 19.5F;
+        f = 22.7;
+        bol = true;
+        cr = 9;
+        cr1 = 11;
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(f);
+        System.out.println(bol);
+        System.out.println(cr);
+        System.out.println(cr1);
+        
+
+    }
+}
